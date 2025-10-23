@@ -1,3 +1,3 @@
 import os
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "your_api_key_here")
